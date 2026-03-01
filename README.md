@@ -19,11 +19,6 @@ I love designing visuals that tell stories — and writing Python that brings id
 
 
 🛠️ Skills & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 
 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=sachithr19-007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
