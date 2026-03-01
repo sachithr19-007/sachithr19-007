@@ -27,4 +27,3 @@ I love designing visuals that tell stories — and writing Python that brings id
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithr19-007&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 🌐 Connect with Me
-Show Image
