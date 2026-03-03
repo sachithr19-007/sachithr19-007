@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+creative+corner+🎨;Digital+Art+%26+Visual+Design+✨;Python+%26+Creative+Coding+🐍;Building+things+that+inspire+🚀;Art+meets+Code+here+💜" alt="Typing SVG" />
-
 <br/><br/>
 
 ---
@@ -46,11 +44,6 @@ class sachithr19_007:
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80px"/><br/>
 <b>Python Dev</b><br/>
 <sub>Bringing ideas to life</sub>
-</td>
-<td align="center" width="200">
-<img src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="80px"/><br/>
-<b>Generative Art</b><br/>
-<sub>Code as a canvas</sub>
 </td>
 </tr>
 </table>
