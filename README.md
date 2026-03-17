@@ -1,4 +1,4 @@
-<img align="right" width="35%" src="https://raw.githubusercontent.com/sachithr19-007/sachithr19-007/main/banner.png">
+<img align="right" width="35%" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 # <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/> I'm Sachith Kumar!
 
